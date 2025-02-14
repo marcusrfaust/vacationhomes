@@ -1935,7 +1935,7 @@ img {
    basic colors
    ============ */
 .bg-color1 {
-  background-color: #0069a9;
+  background-color: #DE1E24;
 }
 .bg-color1.option {
   background-color: #004976;
@@ -1967,7 +1967,7 @@ img {
 }
 
 .text-color1 {
-  color: #0069a9;
+  color: #DE1E24;
 }
 .text-color1.option {
   color: #004976;
@@ -2438,7 +2438,7 @@ button.swal2-styled {
   line-height: 1em;
   min-height: 3rem;
   font-weight: bold;
-  background-color: #0069a9;
+  background-color: #DE1E24;
   color: #fff;
 }
 .btn:hover,
@@ -3141,7 +3141,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .houses-list-nav-tabs-btn.w--current,
 .houses-list-nav-tabs-btn:hover {
   z-index: 10;
-  background-color: #0069a9;
+  background-color: #DE1E24;
   color: #fff;
 }
 
@@ -3187,7 +3187,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   min-height: auto;
   align-items: center;
   padding-left: 0px;
-  color: #0069a9;
+  color: #DE1E24;
 }
 .read-more-btn.read-more-btn-less {
   display: none;
@@ -3983,7 +3983,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   margin-right: 6px;
   float: left;
   font-size: 0.875rem;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .navbar-contact-icon.phone {
@@ -4296,7 +4296,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   }
 }
 .navbar-toggler.w--open {
-  color: #0069a9;
+  color: #DE1E24;
   background-color: transparent;
 }
 
@@ -5724,7 +5724,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   z-index: 6;
   display: flex;
   position: relative;
-  color: #0069a9;
+  color: #DE1E24;
   padding: 1.5rem;
   padding-top: 0;
 }
@@ -6499,8 +6499,8 @@ input[type=radio]:checked ~ .checkbox-bg {
   align-items: center;
   justify-content: center;
   border-radius: 100%;
-  color: #0069a9;
-  background-color: #0069a9;
+  color: #DE1E24;
+  background-color: #DE1E24;
   color: #fff;
 }
 
@@ -6822,7 +6822,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-weight: bold;
   font-size: 18px;
   line-height: 24px;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .review-subitem-title-text {
@@ -8362,7 +8362,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   color: #393b3f;
   display: flex;
   align-items: center;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .page-title-content {
@@ -8382,7 +8382,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-family: "Poppins", sans-serif;
   letter-spacing: 0.4px;
   font-size: 2rem;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .page-title-title-bg {
@@ -8548,7 +8548,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .btn.house-hero-btn {
   background-color: #fff;
-  color: #0069a9;
+  color: #DE1E24;
 }
 .btn.house-hero-btn .btn-bg {
   display: none;
@@ -8596,7 +8596,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 
 .house-modules-title-and-itens .page-title-title-text {
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .house-modules-title-and-itens .page-title-title-bg,
@@ -9066,11 +9066,11 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-weight: bold;
   font-size: 1rem;
   line-height: 1.6em;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .title-default-text.price {
-  color: #0069a9;
+  color: #DE1E24;
   font-size: 1.25rem;
 }
 
@@ -9084,7 +9084,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .price-value-title {
   font-weight: bold;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 /* value big */
@@ -9104,7 +9104,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .price-value-big-text-1 {
@@ -9466,7 +9466,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .simple-itens-item-icon {
   margin-right: 0.75rem;
   font-size: 1rem;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .condo-detail .simple-itens-item {
@@ -9525,7 +9525,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   display: inline-block;
   font-size: 1.25rem;
   float: left;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .room-types-itens-icon-group {
@@ -9774,7 +9774,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-size: 1.25rem;
   margin: 0.75rem;
   align-items: center;
-  color: #0069a9;
+  color: #DE1E24;
 }
 @media (max-width: 479px) {
   .distances-item-text3-group {
@@ -9839,7 +9839,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-weight: bold;
   font-size: 0.875rem;
   line-height: 1.5em;
-  color: #0069a9;
+  color: #DE1E24;
 }
 .house-calendar-group .agenda {
   display: flex;
@@ -10204,7 +10204,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   padding: 1.2rem 1.875rem;
   box-shadow: 0px 0.225rem 1.2rem 0px rgba(0, 0, 0, 0.12);
   background-color: #fff;
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 .btn.faq-questions:hover {
@@ -11977,7 +11977,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 .cart2-info-valor.total {
   font-weight: bold;
-  color: #0069a9;
+  color: #DE1E24;
   font-size: 1.5rem;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -12292,7 +12292,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   float: right;
   margin-left: auto;
   margin-right: auto;
-  background-color: #0069a9;
+  background-color: #DE1E24;
   color: #fff;
 }
 
@@ -12403,7 +12403,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .pick-sl.range-end,
 .pick-sl.range-start {
-  background-color: #0069a9;
+  background-color: #DE1E24;
   color: #fff;
 }
 .pick-sl.range-end span.label,
@@ -12461,7 +12461,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 
 .pick.pick-y {
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 /* ---------------------------------- alert popup ---------------------------------- */
@@ -15471,7 +15471,7 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
    ============ */
 .nav-tabs-btn.w--current .nav-tabs-btn-bg,
 .nav-tabs-btn:hover .nav-tabs-btn-bg {
-  background-color: #0069a9;
+  background-color: #DE1E24;
 }
 
 /* ============
@@ -15492,7 +15492,7 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
    ============ */
 .bloco-services-description-subtitle-text,
 .bloco-services-description-price-text.value {
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 /* ============
@@ -15515,14 +15515,14 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
 }
 
 .btn.cart-shopping-dropdown:hover {
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 /* ============
    FAQ
    ============ */
 .faq-questions-text {
-  color: #0069a9;
+  color: #DE1E24;
 }
 
 /* ============
